@@ -68,4 +68,4 @@ OpenModels is an ambitious initiative that aims to democratize access to AI tech
 
 ## 7. Call to Action
 
-If you are interested in contributing to OpenModels, please visit our website ([www.open-models-platform.com](http://www.openmodels.org/)) and join our mailing list to stay informed about our progress, upcoming events, and opportunities for involvement. Together, we can build a more inclusive, equitable, and innovative future powered by AI.
+If you are interested in contributing to OpenModels, please visit our website ([www.open-models-platform.com](https://open-models-platform.github.io/home/)) and join our mailing list to stay informed about our progress, upcoming events, and opportunities for involvement. Together, we can build a more inclusive, equitable, and innovative future powered by AI.
