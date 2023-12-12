@@ -1,8 +1,5 @@
-Certainly! Here's an updated and more practical version of the content for OpenModels, keeping the markdown format:
 
----
-
-# OpenModels - An Open Source Community Initiative
+# OpenModels - An Open Source Large Models Community Initiative
 
 ## 1. Introduction
 
@@ -45,8 +42,8 @@ OpenModels is more than an initiative; it's a movement to democratize AI technol
 Interested in being part of OpenModels? Visit our website ([www.open-models-platform.com](https://open-models-platform.github.io/home/)) to join our community. Stay updated on our progress, upcoming events, and ways to get involved. Together, we can forge an AI-powered future that's inclusive, fair, and innovative.
 
 
-
-# OpenModels - 一个开源社区倡议
+-------------------------------------
+# OpenModels - 一个开源大模型社区倡议
 
 ## 1. 引言
 
